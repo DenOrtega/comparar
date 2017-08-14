@@ -1,2 +1,0 @@
-# comparar
-Versión Desktop 
